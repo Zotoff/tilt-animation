@@ -11,6 +11,7 @@ let paths = {
 	plugins: {
 		src: [
 			// 'node_modules/jquery/dist/jquery.min.js', // npm vendor example (npm i --save-dev jquery)
+			'node_modules/gsap/dist/gsap.min.js'
 		]
 	},
 
